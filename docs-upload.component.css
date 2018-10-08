@@ -1,0 +1,83 @@
+h1{
+
+text-align: center;
+font-weight: bold;
+color: blue;
+}
+
+    body{
+        background: url(../images/-doctors-wallpapers.jpg);
+    
+    background-attachment: fixed;
+    font-family: sans-serif;
+    height: 100%; 
+        
+    }
+    
+
+
+div{
+    
+     margin: 25px;
+     font-weight: bold;
+    }
+
+    input[type=text] {
+        width: 250px;
+        height: 15px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        
+        
+    }
+    #submission{
+   
+    text-align: center;
+    padding: 7%;
+    
+        border-radius: 5px;
+        float: left;
+        border-width:5px; 
+    
+        
+        
+        text-justify: auto;
+        
+    
+    
+    }
+    topnav {
+        position:fixed;
+        background-color:"blue";
+        overflow: hidden;
+        width: 100%;
+        text-emphasis: bold;
+        color: black;
+        
+    }
+    
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+    
+    /* Change the color of links on hover */
+    .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+    
+    /* Add a color to the active/current link */
+    .topnav a.active {
+        
+        color: white;
+    }
+    
+
+   

@@ -1,0 +1,94 @@
+body{
+    background: url(../images/-doctors-wallpapers.jpg);
+
+background-attachment: fixed;
+font-family: sans-serif;
+height: 100%; 
+    
+}
+#p1{
+    text-align:"center";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 225%;
+    
+}
+hr{margin-top:65px;
+}
+
+#first_box {
+    background-color:rgb(73, 75, 197); 
+    
+    color: white;
+    padding: 3%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 305px;
+    margin-top:75px; 
+    text-justify: auto;
+    border-style: groove;
+    border-color: grey;
+    border-radius: 35px;
+    
+}
+
+#second_box {
+    background-color:rgb(73, 75, 197); 
+    
+    color: white;
+    padding: 3%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 205px;
+    margin-top:75px; 
+    text-justify: auto;
+    border-style: groove;
+    border-color: grey;
+    border-radius: 35px;
+}
+
+topnav {
+    background-color:black;
+    overflow: hidden;
+    width: 100%;
+    text-emphasis: bold;
+    color: rgb(15, 94, 139);
+    opacity: unset;
+    border: 1px solid black;
+    margin: 0px auto;
+    height: 55px;
+    
+}
+#p1{
+    text-align: center;
+    font-family: cursive;
+    padding: 20px 40px; 
+    color: #056ac9;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #056ac9;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    
+    color: #056ac9;
+}
+
